@@ -1,0 +1,41 @@
+{
+    "computer": [
+        {
+            "id": 0,
+            "name": "microsoft",
+            "computer": "Surface Pro",
+            "web": "https://www.microsoft.com/en-us/d/surface-laptop-4/946627fb12t1?ocid=AID2200837_SEM_42136d1b42541871c8d00cc064496a4b%3aG%3as&ef_id=42136d1b42541871c8d00cc064496a4b%3aG%3as&msclkid=42136d1b42541871c8d00cc064496a4b&activetab=pivot:overviewtab",
+            "description": "Top notch computers",
+            "product":  ["surface go", "keyboard", "mouse", "charger","bluetooth"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"500",
+                    "Line1": "Congress Ave",
+                    "Line2": "Austin Tx",
+                    "postcode": "78701",
+                    "country": "United States"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Microsoft",
+            "computer": "Desktop",
+            "web": "https://www.microsoft.com/en-us/d/surface-laptop-4/946627fb12t1?ocid=AID2200837_SEM_42136d1b42541871c8d00cc064496a4b%3aG%3as&ef_id=42136d1b42541871c8d00cc064496a4b%3aG%3as&msclkid=42136d1b42541871c8d00cc064496a4b&activetab=pivot:overviewtab",
+            "description": "lastest and greatest",
+            "product": ["desktop","keyboard","mouse","cabling"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number":"1065",
+                    "Line1": "La Avenida St",
+                    "Line2": "Mountain View CA",
+                    "postcode": "94043",
+                    "country": "United States"
+        
+                }
+            ]
+        }
+    ]
+}
